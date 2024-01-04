@@ -1,1 +1,2 @@
-Code for TPRR post processing
+Code for TPRR post processing.
+The bash.sh is used to drive Python scripts.
